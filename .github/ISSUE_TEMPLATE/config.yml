@@ -1,4 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-    - name: 🤔 Ran into Trouble?
-      about: Let's fix that. Help us by reporting the issue!
+    - name: ❓ Trouble Setting Up Bot?
+      url: https://github.com/lymieux/MEE7/wiki
+      about: Fret not, we have a guide!
+contact_links:
+    - name: 🤖 Don't Know Bot Commands?
+      url: https://github.com/lymieux/MEE7/wiki
+      about: No one does in the beginning!
+# 
+# todo: proper wiki links
