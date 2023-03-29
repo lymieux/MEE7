@@ -1,5 +1,4 @@
 blank_issues_enabled: false
-# contact_links:
-#     - name: 🤔 Questions and Help
-#       url: 
-#       about: 
+contact_links:
+    - name: 🤔 Ran into Trouble?
+      about: Let's fix that. Help us by reporting the issue!
